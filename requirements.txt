@@ -1,5 +1,6 @@
 streamlit
-finance-datareader
-pandas-ta
 pandas
-openpyxl
+pandas-ta
+finance-datareader
+lxml
+requests
