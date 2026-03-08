@@ -3,4 +3,5 @@ pandas
 pandas-ta
 finance-datareader
 lxml
+beautifulsoup4
 requests
